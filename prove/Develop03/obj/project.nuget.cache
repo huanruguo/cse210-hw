@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6I39r74znXI=",
+  "success": true,
+  "projectFilePath": "/Users/guohuanru/Desktop/cs2 3/cs2/cs2.csproj",
+  "expectedPackageFiles": [
+    "/Users/guohuanru/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/guohuanru/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/guohuanru/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

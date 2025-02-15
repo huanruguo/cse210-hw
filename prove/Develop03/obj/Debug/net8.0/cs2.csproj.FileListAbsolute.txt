@@ -1,0 +1,28 @@
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/bin/Debug/net8.0/cs2.exe
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/bin/Debug/net8.0/cs2.deps.json
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/bin/Debug/net8.0/cs2.runtimeconfig.json
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/bin/Debug/net8.0/cs2.dll
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/bin/Debug/net8.0/cs2.pdb
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.AssemblyInfo.cs
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.dll
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/refint/cs2.dll
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.pdb
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/cs2.genruntimeconfig.cache
+C:/Users/Lenovo/Desktop/pythonProject/jinwen/cs2/cs2/obj/Debug/net8.0/ref/cs2.dll
+/Users/guohuanru/Desktop/cs2 3/cs2/bin/Debug/net8.0/cs2
+/Users/guohuanru/Desktop/cs2 3/cs2/bin/Debug/net8.0/cs2.deps.json
+/Users/guohuanru/Desktop/cs2 3/cs2/bin/Debug/net8.0/cs2.runtimeconfig.json
+/Users/guohuanru/Desktop/cs2 3/cs2/bin/Debug/net8.0/cs2.dll
+/Users/guohuanru/Desktop/cs2 3/cs2/bin/Debug/net8.0/cs2.pdb
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.AssemblyInfoInputs.cache
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.AssemblyInfo.cs
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.csproj.CoreCompileInputs.cache
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.dll
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/refint/cs2.dll
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.pdb
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/cs2.genruntimeconfig.cache
+/Users/guohuanru/Desktop/cs2 3/cs2/obj/Debug/net8.0/ref/cs2.dll
