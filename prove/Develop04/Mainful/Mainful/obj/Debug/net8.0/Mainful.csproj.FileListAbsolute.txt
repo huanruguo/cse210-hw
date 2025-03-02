@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\bin\Debug\net8.0\Mainful.exe
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\bin\Debug\net8.0\Mainful.deps.json
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\bin\Debug\net8.0\Mainful.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\bin\Debug\net8.0\Mainful.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\bin\Debug\net8.0\Mainful.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\refint\Mainful.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\Mainful.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Mainful\Mainful\obj\Debug\net8.0\ref\Mainful.dll
