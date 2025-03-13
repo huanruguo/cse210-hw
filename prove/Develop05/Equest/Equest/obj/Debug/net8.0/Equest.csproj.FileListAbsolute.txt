@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\bin\Debug\net8.0\Equest.exe
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\bin\Debug\net8.0\Equest.deps.json
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\bin\Debug\net8.0\Equest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\bin\Debug\net8.0\Equest.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\bin\Debug\net8.0\Equest.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\refint\Equest.dll
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\Equest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pythonProject\Mindful\Equest\Equest\obj\Debug\net8.0\ref\Equest.dll

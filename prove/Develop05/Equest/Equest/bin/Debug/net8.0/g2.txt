@@ -1,0 +1,3 @@
+0
+SimpleGoal|sleep|have a sleep|50|False
+TimedGoal|go out|out|10|12/02/2026|False
