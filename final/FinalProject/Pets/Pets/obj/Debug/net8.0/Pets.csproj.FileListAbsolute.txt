@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\bin\Debug\net8.0\Pets.exe
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\bin\Debug\net8.0\Pets.deps.json
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\bin\Debug\net8.0\Pets.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\bin\Debug\net8.0\Pets.dll
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\bin\Debug\net8.0\Pets.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.dll
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\refint\Pets.dll
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.pdb
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\Pets.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pythonProject\Pet\Pets\Pets\obj\Debug\net8.0\ref\Pets.dll
